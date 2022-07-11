@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Flip-Coin/static/css/main.7f549cab.css",
-    "main.js": "/React-Flip-Coin/static/js/main.ed02662e.js",
+    "main.js": "/React-Flip-Coin/static/js/main.8905baf7.js",
     "static/js/787.7a496a0e.chunk.js": "/React-Flip-Coin/static/js/787.7a496a0e.chunk.js",
     "index.html": "/React-Flip-Coin/index.html",
     "main.7f549cab.css.map": "/React-Flip-Coin/static/css/main.7f549cab.css.map",
-    "main.ed02662e.js.map": "/React-Flip-Coin/static/js/main.ed02662e.js.map",
+    "main.8905baf7.js.map": "/React-Flip-Coin/static/js/main.8905baf7.js.map",
     "787.7a496a0e.chunk.js.map": "/React-Flip-Coin/static/js/787.7a496a0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f549cab.css",
-    "static/js/main.ed02662e.js"
+    "static/js/main.8905baf7.js"
   ]
 }
