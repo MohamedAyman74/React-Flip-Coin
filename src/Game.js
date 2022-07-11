@@ -38,7 +38,7 @@ class Game extends Component {
         <Coin image={image} alt={alt} />
         <p>
           Total flips: {heads + tails}, total heads: {heads} and total tails:
-          {` ${tails}`}
+          {tails}
         </p>
         <button onClick={this.handlieClick}>Flip Coin</button>
       </div>
